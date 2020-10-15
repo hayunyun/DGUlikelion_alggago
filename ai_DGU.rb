@@ -55,7 +55,7 @@ class MyAlggago
   end
 
   def get_name
-    "동대멋사 실험용"
+    "엄석대"
   end
 end
 
