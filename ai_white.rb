@@ -49,13 +49,13 @@ class MyAlggago
 
     results = result_from_python.split(",")
 
-    return [results[0].to_i, results[1].to_f, results[2].to_f, results.to_s]
-    #results[4].to_f, results[5].to_f]
+    return [results[0].to_i, results[1].to_f, results[2].to_f, results.to_s, results[4].to_i, results[5].to_i]
+    
 
   end
 
   def get_name
-    "실험용"
+    "동대멋사 실험용"
   end
 end
 
