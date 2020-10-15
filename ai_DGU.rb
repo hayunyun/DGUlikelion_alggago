@@ -45,7 +45,7 @@ class MyAlggago
     end
 
     # result_from_python = `python py_ai_sample.py`
-    result_from_python = `python py_ai.py`
+    result_from_python = `python py_ai_DGU.py`
 
     results = result_from_python.split(",")
 
